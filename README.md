@@ -1,4 +1,6 @@
 # MQTTJitsi
-Communication between Raspberry and Android with MQTT and Jitsi (as Smart Door Bell to monitor your door)
+Communication between Raspberry and Android with MQTT and Jitsi (for Video Call)
+
+Being used in smart bell door project.
 
 (Still ongoing, adding more functions)
